@@ -1,0 +1,5 @@
+{
+  "name": "Smart Construction Safety Management Platform",
+  "description": "A platform for safety management of heavy equipment and workers at construction sites using RTK-GNSS precision positioning terminals. Features real-time monitoring, geofencing for danger zones, and status alerts.",
+  "requestFramePermissions": []
+}
